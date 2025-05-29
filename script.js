@@ -13,7 +13,7 @@ $(document).ready(function () {
        desc: "yahh, mungkin kamuu udah tau perasaanku sejak lama tapi kali ini aku seriuss .Disini Aku cuman mau ungkapin perasaan aku sama kamu,masalah diterima atau ngga itu tergantung kamu nya,aku juga gak bakal berharap lebih kok"
     }, {
         title: "",
-        desc: "sebenernya aku udah lama mau ngunhkapin ini tapi yaa,gitu. nunggu saat yang tepat, dan mungkin ini saat yanh tepatt. mungkin segitu saja dari aku,hehe btw makasih yaa sudah mau dibaca."
+        desc: "sebenernya aku udah lama mau ngunhkapin ini tapi yaa,gitu. nunggu saat yang tepat, dan mungkin ini saat yanh tepatt. mungkin segitu saja dari aku,btw makasih yaa sudah mau dibaca."
     }, {
         title: "I Have Crush On You!!",
         desc: "Aku tunggu Balasan Mu:)"
